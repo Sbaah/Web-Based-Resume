@@ -18,3 +18,7 @@
 
 1. `npm install`
 1. `npm start`
+
+## Article 
+
+https://medium.com/swlh/making-a-resume-in-html-or-react-bd1781abcdef
